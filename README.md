@@ -98,3 +98,8 @@ Integrated video conferencing tool (similar to Google Meet) for real-time teache
 
 An online learning platform with video lessons, quizzes, and progress tracking. Features include media streaming, user authentication, course approval, live video conferencing, messaging, and secure payments. Built for scalable, real-time education delivery.
 
+## 🎓 INTERNSHIP EXPERIENCE
+
+This project gave me hands-on experience with building an Online Learning Platform using modern web technologies. I explored user authentication, dynamic content rendering, and responsive design to create a scalable and engaging educational experience.
+
+I sincerely thank **Codtech IT Solutions Pvt. Ltd.** for this opportunity. The mentorship from **Neela Santosh Kumar** and the structured internship helped me grow both technically and professionally. This project has strengthened my understanding of full-stack development, user-centric design, and real-world deployment strategies.
