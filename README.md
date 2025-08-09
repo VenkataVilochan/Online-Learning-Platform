@@ -85,18 +85,15 @@ Students view purchased courses and progress. Teachers manage courses and studen
 
 Students can browse and buy courses directly from the platform.
 
-![Course Purchase](https://github.com/user-attachments/assets/51644337-b3f2-4574-8f5f-682656a8d4b9)
+*No screenshot provided for this section.*
 
 ---
 
-## 🎓 INTERNSHIP EXPERIENCE
+### 🎥 5. Live Video Conferencing
 
-This project allowed me to explore the full MERN stack in depth, from building RESTful APIs to managing frontend state and integrating real-time communication tools. I learned how to structure scalable applications, implement secure authentication, and design user-centric interfaces.
+Integrated video conferencing tool (similar to Google Meet) for real-time teacher-student interaction.
 
-I sincerely thank **Codtech IT Solutions Pvt. Ltd.** for providing this opportunity. The mentorship from **Neela Santosh Kumar** and the structured internship program helped me grow both technically and professionally. This project has strengthened my understanding of full-stack development and prepared me for future roles in collaborative software engineering.
-
----
-
+![Live Video Conferencing](https://github.com/user-attachments/assets/51644337-b3f2-4574-8f5f-682656a8d4b9)
 ## ℹ️ ABOUT
 
 An online learning platform with video lessons, quizzes, and progress tracking. Features include media streaming, user authentication, course approval, live video conferencing, messaging, and secure payments. Built for scalable, real-time education delivery.
